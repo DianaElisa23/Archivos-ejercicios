@@ -1,0 +1,2 @@
+El spoofing de IP implica la 
+falsificación de la dirección IP de un dispositivo
